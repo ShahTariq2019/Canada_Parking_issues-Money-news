@@ -95,81 +95,81 @@ PANONCEAU TAXIS INCLUS
 P EN FILE
 \P AUX AUTOBUS
 \P RESERVE CAMPER TENTE ROULOTTE
-PANONCEAU EXCEPTÃ‰ DETENTEURS DE PERMIS SECTEUR XX
+PANONCEAU EXCEPTÃƒâ€° DETENTEURS DE PERMIS SECTEUR XX
 PANONCEAU SAMEDI DIMANCHE
 \A EN TOUT TEMPS SUR 5m
 \P EXCEPTE AUTOBUS SCOLAIRE
-\P (FLÃˆCHE SEULEMENT)
+\P (FLÃƒË†CHE SEULEMENT)
 \P D'ICI AU COIN
-\ARRÃŠT INTERDIT ZONE D'AUTOBUS
-\ARRÃŠT INTERDIT
-DÃ‰BARCADÃˆRE
-P RÃ‰SERVÃ‰ SEULEMENT DÃ‰TENTEURS DE PERMIS #
-P RÃ‰SERVÃ‰ EN TOUT TEMPS DÃ‰TENTEURS DE PERMIS #
-\P RÃˆGL. 2027
-\P RÃ‰SERVÃ‰ PERSONNE HANDICAPÃ‰E
+\ARRÃƒÅ T INTERDIT ZONE D'AUTOBUS
+\ARRÃƒÅ T INTERDIT
+DÃƒâ€°BARCADÃƒË†RE
+P RÃƒâ€°SERVÃƒâ€° SEULEMENT DÃƒâ€°TENTEURS DE PERMIS #
+P RÃƒâ€°SERVÃƒâ€° EN TOUT TEMPS DÃƒâ€°TENTEURS DE PERMIS #
+\P RÃƒË†GL. 2027
+\P RÃƒâ€°SERVÃƒâ€° PERSONNE HANDICAPÃƒâ€°E
 P 60 min
-\ARRÃŠT INTERDIT (FLÃˆCHE)
-\P RÃ‰SERVÃ‰ FAMILLE NOMBREUSE
+\ARRÃƒÅ T INTERDIT (FLÃƒË†CHE)
+\P RÃƒâ€°SERVÃƒâ€° FAMILLE NOMBREUSE
 SAUF AUTOBUS SCOLAIRES JOURS DE CLASSE
 P 2H
-\ARRÃŠT INTERDIT (HEURE)
+\ARRÃƒÅ T INTERDIT (HEURE)
 P 30 MIN - POSTE DE POLICE
 PERMISSION DE STATIONNER
 30 MIN
 LUN MER VEN
 MAR JEU SAM
-EXCEPTÃ‰ AUTOBUS SCOLAIRE
-ESPACE RÃ‰SERVÃ‰ MER DIM
-ARRÃŠT D'AUTOBUS LUNDI Ã€ VENDREDI
+EXCEPTÃƒâ€° AUTOBUS SCOLAIRE
+ESPACE RÃƒâ€°SERVÃƒâ€° MER DIM
+ARRÃƒÅ T D'AUTOBUS LUNDI Ãƒâ‚¬ VENDREDI
 P 60 MIN
 ZONE D'ATTENTE POUR AUTOBUS DE LA STCUM SEULEMENT
 \P (STATIONNEMENT INTERDIT)
-22H Ã  8H
-SABBAT ET JOURS DE FÃŠTE
-ESPACE RÃ‰SERVÃ‰E NAVETTE CAPREIT
-50 MÃˆTRES
-ARRÃŠT - D'AUTOBUS
+22H Ãƒ  8H
+SABBAT ET JOURS DE FÃƒÅ TE
+ESPACE RÃƒâ€°SERVÃƒâ€°E NAVETTE CAPREIT
+50 MÃƒË†TRES
+ARRÃƒÅ T - D'AUTOBUS
 SAUF AUTOBUS SCOLAIRE - JOURS DE CLASSE
 60 MIN - VISITEUR - SEULEMENT
-EXCEPTÃ‰ VÃ‰HICULES AUTORISÃ‰S
-POUR LES EMPLOYÃ‰S SEULEMENT
+EXCEPTÃƒâ€° VÃƒâ€°HICULES AUTORISÃƒâ€°S
+POUR LES EMPLOYÃƒâ€°S SEULEMENT
 SAUF AUTOBUS JOURS DE CLASSE
-EXCEPTÃ‰ DIMANCHE ET JOURS DE FÃŠTE
-DÃ‰BARCADÃˆRE DE COURTE DURÃ‰E RÃ‰SERVÃ‰ AUX FAMILLES AVEC JEUNES ENFANTS
-ARRÃŠT D'AUTOBUS de 00H00 Ã€ 05H00
-5 MÃˆTRES
-23H00 Ã€ 7H00 EXCEPTÃ‰ VÃ‰HICULES AUTORISÃ‰S
-POSTE D'ATTENTE AUTOBUS 6H Ã€ 9H30 LUNDI Ã€ VENDREDI
+EXCEPTÃƒâ€° DIMANCHE ET JOURS DE FÃƒÅ TE
+DÃƒâ€°BARCADÃƒË†RE DE COURTE DURÃƒâ€°E RÃƒâ€°SERVÃƒâ€° AUX FAMILLES AVEC JEUNES ENFANTS
+ARRÃƒÅ T D'AUTOBUS de 00H00 Ãƒâ‚¬ 05H00
+5 MÃƒË†TRES
+23H00 Ãƒâ‚¬ 7H00 EXCEPTÃƒâ€° VÃƒâ€°HICULES AUTORISÃƒâ€°S
+POSTE D'ATTENTE AUTOBUS 6H Ãƒâ‚¬ 9H30 LUNDI Ãƒâ‚¬ VENDREDI
 90 MIN
 ZONE DE LIVRAISON
 LUN MER VEN DIM
-6 PIEDS DE CHAQUE CÃ”TÃ‰ DU TROTTOIR
-REMORQUAGE Ã€ VOS FRAIS
+6 PIEDS DE CHAQUE CÃƒâ€TÃƒâ€° DU TROTTOIR
+REMORQUAGE Ãƒâ‚¬ VOS FRAIS
 REMORQUAGE
-EXCEPTÃ‰ VÃ‰HICULES COMMUNAUTO
-RÃ‰SERVÃ‰ BILBIOTHÃˆQUE
-RÃ‰SERVÃ‰ INCENDIE
+EXCEPTÃƒâ€° VÃƒâ€°HICULES COMMUNAUTO
+RÃƒâ€°SERVÃƒâ€° BILBIOTHÃƒË†QUE
+RÃƒâ€°SERVÃƒâ€° INCENDIE
 VISITEURS 30 MIN MAX
-RÃ‰SERVÃ‰ MESSAGER
-HANDICAPÃ‰S - DÃ‰BARCADÃˆRE (Bleu)
+RÃƒâ€°SERVÃƒâ€° MESSAGER
+HANDICAPÃƒâ€°S - DÃƒâ€°BARCADÃƒË†RE (Bleu)
 60 MIN
-DÃ‰BARCADÃˆRE SEULEMENT
+DÃƒâ€°BARCADÃƒË†RE SEULEMENT
 \P CARAVANE  HABITATION MOTORISEE  VEHICULE RECREATIF
 PANONCEAU EXCEPTE VEHICULES MUNIS D'IN PERMIS (2 SECTEURS)
 SORTIE DE GARAGE
-30 MIN 8H Ã€ 22H
+30 MIN 8H Ãƒâ‚¬ 22H
 \P EN TOUT TEMPS (TEMPORAIRE - PANNEAU)
 PANONCEAU CAMIONS SEULEMENT
 PANONCEAU POUR CUISINE DE RUE PERMIS CR-MTL
 PANONCEAU RESERVE DETENTEUR DE PERMIS DE RESIDANTS
 \A EN TOUT TEMPS (ORANGE POUR TRAVAUX)
-PANONCEAU 20 AOÃ›T AU 30 JUIN
-STATIONNEMENT TARIFÃ‰
+PANONCEAU 20 AOÃƒâ€ºT AU 30 JUIN
+STATIONNEMENT TARIFÃƒâ€°
 PANONCEAU RESERVE VEHICULES MUNIS D'UN PERMIS (2 SECTEURS)
 PANONCEAU MERCREDI
-Espace rÃ©servÃ© - Directeur SÃ©curitÃ© publique
-Espace rÃ©servÃ© - SÃ©curitÃ© publique
+Espace rÃƒÂ©servÃƒÂ© - Directeur SÃƒÂ©curitÃƒÂ© publique
+Espace rÃƒÂ©servÃƒÂ© - SÃƒÂ©curitÃƒÂ© publique
 PANONCEAU LUNDI
 \P RESERVE BICYCLETTE
 STATIONNEMENT RESERVE
@@ -236,7 +236,7 @@ week_days = ['lundi','mardi','mercredi','jeudi','vendredi','samedi','dimanche',
 months_list = ['january', 'february', 'march', 'april', 
                'may', 'june', 'july', 'august', 'september', 
                'october', 'november', 'december']
-
+# all text should be small letters and results will be 0 or 1
 
 predefined_results = {'\p reserve taxis':1,
                         '\p en tout temps':1,
@@ -244,7 +244,8 @@ predefined_results = {'\p reserve taxis':1,
                         # 'p 15 min':1,
                         "panonceau - excepte vehicules munis d'un permis":1,
                         "\p reserve handicapes (picto)":1,
-                        "\p reserve motos":1,                        
+                        "\p reserve motos":1,
+			'\p reserve bicyclette':1,                       
                     
                         }
 
@@ -588,6 +589,8 @@ def distance(lat1, lon1, lat2, lon2):
     a = 0.5 - cos((lat2-lat1)*p)/2 + cos(lat1*p)*cos(lat2*p) * (1-cos((lon2-lon1)*p)) / 2
     return 12742 * asin(sqrt(a))
 
+# We will add an algorithm to find the 5 possible disances 
+
 def closest(data, v):
     return sorted(data, key=lambda p: distance(v['lat'],v['lon'],p['properties']['Latitude'],p['properties']['Longitude']))
 
@@ -602,7 +605,7 @@ class EchoService(pyrestful.rest.RestHandler):
           tempDataList1 = tempDataList["features"] 
           result = list(closest(tempDataList1, {"lat": float(lat), "lon": float(lon)}))
           print('Results shown')
-          return result[:1]
+          return result[:5]
      
      @get(_path="/calc/{lat}/{lng}", _produces=mediatypes.APPLICATION_JSON)
      def sayHello2(self, lat, lon):
