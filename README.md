@@ -10,6 +10,22 @@ https://www.youtube.com/watch?v=aOngr9YJMOY
 
 https://www.cbc.ca/news/business/marketplace-parking-tickets-canada-nov-17-1.3854094
 
+https://montreal.ctvnews.ca/city-of-montreal-hiking-parking-fines-next-year-1.6154415
+
+https://toronto.citynews.ca/2021/08/09/toronto-parking-ticket-hot-spots/
+
+https://www.parkingforme.com/blog/which-city-hands-the-priciest-parking-ticket-in-canada/
+
+https://open.toronto.ca/dataset/parking-tickets/
+
+https://towardsdatascience.com/what-are-the-odds-of-getting-a-parking-ticket-in-toronto-1f090dd0c608
+
+https://ottawa.ctvnews.ca/80-per-cent-drop-in-parking-tickets-on-ottawa-s-roads-during-pandemic-1.4934850
+
+https://loanscanada.ca/insurance/do-parking-tickets-affect-insurance-rates-in-canada/
+
+https://globalnews.ca/news/2149749/breaking-down-parking-ticket-prices-in-the-gta/
+
 https://www.thestar.com/opinion/contributors/2023/03/07/the-number-of-parking-tickets-has-plunged-in-cash-strapped-toronto-why-the-lax-enforcement.html
 
 https://www.msn.com/en-ca/news/canada/montreal-could-save-500m-annually-by-nixing-free-parking-environmental-group-says/ar-AA18iiUH?ocid=entnewsntp&cvid=e53bbbbfa3c748b29e39765a0b9567e5&ei=51
