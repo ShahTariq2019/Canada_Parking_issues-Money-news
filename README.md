@@ -32,6 +32,10 @@ https://www.msn.com/en-ca/news/canada/montreal-could-save-500m-annually-by-nixin
 
 https://globalnews.ca/news/5966597/canada-post-parking-tickets-million/
 
+https://www.nationalobserver.com/2018/03/25/news/city-montreal-hit-drivers-increased-parking-traffic-fines
+
+https://www.mtlblog.com/montreal/the-city-of-montreal-is-making-driving-and-parking-tickets-more-expensive
+
 https://www.cbc.ca/news/canada/fines-tickets-courts-sunrise-propane-1.5942056#:~:text=A%20CBC%20News%20investigation%20conducted%20over%20the%20past,violations%20to%20tax%20infractions%20and%20unpaid%20parking%20tickets.
 
 https://www.cbc.ca/news/canada/kitchener-waterloo/parking-tickets-fine-glitches-kitchener-ontario-roads-safer-act-1.4522640
