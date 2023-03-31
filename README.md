@@ -6,6 +6,8 @@ https://globalnews.ca/tag/parking-tickets/
 
 https://www.youtube.com/watch?v=tB24lj71VPA&t=296s
 
+https://www.youtube.com/watch?v=aOngr9YJMOY
+
 https://www.msn.com/en-ca/news/canada/montreal-could-save-500m-annually-by-nixing-free-parking-environmental-group-says/ar-AA18iiUH?ocid=entnewsntp&cvid=e53bbbbfa3c748b29e39765a0b9567e5&ei=51
 
 https://globalnews.ca/news/5966597/canada-post-parking-tickets-million/
