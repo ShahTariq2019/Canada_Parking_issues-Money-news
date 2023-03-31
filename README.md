@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=aOngr9YJMOY
 
 https://www.cbc.ca/news/business/marketplace-parking-tickets-canada-nov-17-1.3854094
 
+https://www.thestar.com/opinion/contributors/2023/03/07/the-number-of-parking-tickets-has-plunged-in-cash-strapped-toronto-why-the-lax-enforcement.html
+
 https://www.msn.com/en-ca/news/canada/montreal-could-save-500m-annually-by-nixing-free-parking-environmental-group-says/ar-AA18iiUH?ocid=entnewsntp&cvid=e53bbbbfa3c748b29e39765a0b9567e5&ei=51
 
 https://globalnews.ca/news/5966597/canada-post-parking-tickets-million/
